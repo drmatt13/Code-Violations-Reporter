@@ -225,11 +225,9 @@ export default function App() {
             />
           </div>
           <p className="ml-4 /hidden sm:block md:hidden text-sm sm:text-base line-clamp-1">
-            {/* Illegal Immigrant Reporter - MA */}
             Code Violations Reporter - MA
           </p>
           <p className="ml-4 hidden md:block">
-            {/* Massachusetts Illegal Immigrant Reporter */}
             Massachusetts Code Violations Reporter
           </p>
         </div>
